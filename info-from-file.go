@@ -65,7 +65,7 @@ func checkInput() {
 					returnError("rooms")
 				}
 			} else {
-				returnError("start")
+				returnError("end")
 			}
 		} else {
 			returnError("start")
